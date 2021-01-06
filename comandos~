@@ -1,0 +1,2 @@
+npm init: inicializar el proyecto 
+npm i yargs --save: Yargs le ayuda a construir herramientas interactivas de línea de comandos, analizando argumentos y generando una interfaz de usuario elegante.
